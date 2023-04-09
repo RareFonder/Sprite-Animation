@@ -27,7 +27,7 @@ const animationStates = [
   { name: 'roll', frames: 7, },
   { name: 'bite', frames: 7, },
   { name: 'ko', frames: 12, },
-  { name: 'getHit', frames: 4 },
+  { name: 'getHit', frames: 4, },
 ];
 
 animationStates.forEach((state, index) => {
